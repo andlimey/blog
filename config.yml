@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://andlimey.github.io/blog/"
 title: Andy
 paginate: 5
 theme: hugo-PaperMod
