@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>personal finance on Andy</title>
+    <link>https://examplesite.com/tags/personal-finance/</link>
+    <description>Recent content in personal finance on Andy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Apr 2022 19:45:13 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/personal-finance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Handle My Finances</title>
+      <link>https://examplesite.com/posts/how-i-handle-my-finances/</link>
+      <pubDate>Tue, 12 Apr 2022 19:45:13 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/how-i-handle-my-finances/</guid>
+      <description>The purpose of this article is to share how I manage my finances as a fresh graduate who just started working in a non-finance field, and the rationale behind my decisions.
+One caveat to this is that my approach isn&amp;rsquo;t optimized. Personal finance is a broad topic and it can be quite time-consuming to go in-depth into a particular area. Hence, I prefer to apply heuristics and focus on improving my engineer skills for my career.</description>
+    </item>
+    
+  </channel>
+</rss>

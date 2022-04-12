@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2022-04-12T19:45:13+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/how-i-handle-my-finances/</loc>
+    <lastmod>2022-04-12T19:45:13+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/tags/personal-finance/</loc>
+    <lastmod>2022-04-12T19:45:13+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/</loc>
+    <lastmod>2022-04-12T19:45:13+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/tags/</loc>
+    <lastmod>2022-04-12T19:45:13+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/posts/about-me/</loc>
+    <lastmod>2022-04-12T14:10:50+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/tags/intro/</loc>
+    <lastmod>2022-04-12T14:10:50+08:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/archives/</loc>
+  </url>
+</urlset>

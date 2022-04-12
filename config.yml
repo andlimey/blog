@@ -1,0 +1,31 @@
+baseURL: "https://examplesite.com/"
+title: Andy
+paginate: 5
+theme: hugo-PaperMod
+
+taxonomies:
+    tag: "tags"
+
+params:
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    defaultTheme: auto
+
+    homeInfoParams:
+        Title: Hello
+        Content: Welcome to my blog.
+
+    socialIcons:
+        - name: "LinkedIn"
+        - url: "https://www.linkedin.com/in/andy-chanwy/"
+
+menu:
+    main:
+        - identifier: archives
+          name: Archive
+          url: /archives/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
