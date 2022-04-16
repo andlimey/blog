@@ -2,25 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Andy</title>
-    <link>https://examplesite.com/tags/</link>
+    <link>https://andlimey.github.io/blog/tags/</link>
     <description>Recent content in Tags on Andy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Apr 2022 19:45:13 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 11:12:05 +0800</lastBuildDate><atom:link href="https://andlimey.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>general thoughts</title>
+      <link>https://andlimey.github.io/blog/tags/general-thoughts/</link>
+      <pubDate>Sat, 01 Jan 2022 11:12:05 +0800</pubDate>
+      
+      <guid>https://andlimey.github.io/blog/tags/general-thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reflection</title>
+      <link>https://andlimey.github.io/blog/tags/reflection/</link>
+      <pubDate>Sat, 01 Jan 2022 11:12:05 +0800</pubDate>
+      
+      <guid>https://andlimey.github.io/blog/tags/reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first aid training</title>
+      <link>https://andlimey.github.io/blog/tags/first-aid-training/</link>
+      <pubDate>Sun, 26 Dec 2021 10:46:29 +0800</pubDate>
+      
+      <guid>https://andlimey.github.io/blog/tags/first-aid-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book review</title>
+      <link>https://andlimey.github.io/blog/tags/book-review/</link>
+      <pubDate>Sat, 18 Sep 2021 11:33:44 +0800</pubDate>
+      
+      <guid>https://andlimey.github.io/blog/tags/book-review/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>personal finance</title>
-      <link>https://examplesite.com/tags/personal-finance/</link>
-      <pubDate>Tue, 12 Apr 2022 19:45:13 +0800</pubDate>
+      <link>https://andlimey.github.io/blog/tags/personal-finance/</link>
+      <pubDate>Sat, 18 Sep 2021 11:33:44 +0800</pubDate>
       
-      <guid>https://examplesite.com/tags/personal-finance/</guid>
+      <guid>https://andlimey.github.io/blog/tags/personal-finance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>intro</title>
-      <link>https://examplesite.com/tags/intro/</link>
-      <pubDate>Tue, 12 Apr 2022 14:10:50 +0800</pubDate>
+      <link>https://andlimey.github.io/blog/tags/intro/</link>
+      <pubDate>Wed, 12 May 2021 14:10:50 +0800</pubDate>
       
-      <guid>https://examplesite.com/tags/intro/</guid>
+      <guid>https://andlimey.github.io/blog/tags/intro/</guid>
       <description></description>
     </item>
     

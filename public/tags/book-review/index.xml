@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>book review on Andy</title>
+    <link>https://andlimey.github.io/blog/tags/book-review/</link>
+    <description>Recent content in book review on Andy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Sep 2021 11:33:44 +0800</lastBuildDate><atom:link href="https://andlimey.github.io/blog/tags/book-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review: The Psychology of Money</title>
+      <link>https://andlimey.github.io/blog/posts/the-psychology-of-money-review/</link>
+      <pubDate>Sat, 18 Sep 2021 11:33:44 +0800</pubDate>
+      
+      <guid>https://andlimey.github.io/blog/posts/the-psychology-of-money-review/</guid>
+      <description>In March 2020, there was a huge drawdown due to the pandemic. My portfolio in StashAway was also affected. Although the amount was small, I felt compelled to sell off my investment. I knew I wasn&amp;rsquo;t being rational, but it was difficult to resist that urge.
+I realised then that I cannot manage my money without taking into account my own biases. It is impossible to separate my emotions from how I handle my finances.</description>
+    </item>
+    
+    <item>
+      <title>Book Review: This Is What Inequality Looks Like Review</title>
+      <link>https://andlimey.github.io/blog/posts/this-is-what-inequality-looks-like-review/</link>
+      <pubDate>Mon, 12 Jul 2021 11:30:52 +0800</pubDate>
+      
+      <guid>https://andlimey.github.io/blog/posts/this-is-what-inequality-looks-like-review/</guid>
+      <description>I was bullied before.
+Why is this relevant? Because for a long time, my disdain for them was one of my main motivations to study harder. I wanted to climb out of my &amp;ldquo;neighbourhood&amp;rdquo; secondary school, go to a good junior college, and finally to a good university.
+For a long time, I felt that I deserved to be where I am and that the poor, the uneducated, only have themselves to blame for being lazy, for not wanting to work harder.</description>
+    </item>
+    
+    <item>
+      <title>Book Review: A Philosophy of Software Design</title>
+      <link>https://andlimey.github.io/blog/posts/a-philosophy-of-software-design-review/</link>
+      <pubDate>Fri, 28 May 2021 11:40:00 +0800</pubDate>
+      
+      <guid>https://andlimey.github.io/blog/posts/a-philosophy-of-software-design-review/</guid>
+      <description>I have tried reading several books on software engineering - Clean Code, The Pragmatic Programmer, Design Patterns, etc. However, I could never finish any of the books.
+They were either:
+ Too lengthy or Mostly taught you how to write better code, instead of how to think about writing better code.  This is not to say that those books are terrible. It&amp;rsquo;s just that, they felt more like the second or third book you pick up after reading some first book.</description>
+    </item>
+    
+  </channel>
+</rss>

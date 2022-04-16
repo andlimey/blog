@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>intro on Andy</title>
-    <link>https://examplesite.com/tags/intro/</link>
+    <link>https://andlimey.github.io/blog/tags/intro/</link>
     <description>Recent content in intro on Andy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 12 Apr 2022 14:10:50 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 14:10:50 +0800</lastBuildDate><atom:link href="https://andlimey.github.io/blog/tags/intro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://examplesite.com/posts/about-me/</link>
-      <pubDate>Tue, 12 Apr 2022 14:10:50 +0800</pubDate>
+      <link>https://andlimey.github.io/blog/posts/about-me/</link>
+      <pubDate>Wed, 12 May 2021 14:10:50 +0800</pubDate>
       
-      <guid>https://examplesite.com/posts/about-me/</guid>
+      <guid>https://andlimey.github.io/blog/posts/about-me/</guid>
       <description>Hello.
 I&amp;rsquo;m Andy. I graduated from NUS with a Bachelor&amp;rsquo;s degree in computer science. I&amp;rsquo;m currently working as a software engineer in GovTech.
 I started this blog as a way to keep track of my journey as an engineer, and also to write about other topics of interest, if any.

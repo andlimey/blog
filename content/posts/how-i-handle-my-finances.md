@@ -1,6 +1,6 @@
 ---
 title: "How I Handle My Finances"
-date: 2022-04-12T19:45:13+08:00
+date: 2021-07-24T19:45:13+08:00
 draft: false
 tags: [personal finance]
 ---

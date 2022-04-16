@@ -16,8 +16,8 @@ params:
         Content: Welcome to my blog.
 
     socialIcons:
-        - name: "LinkedIn"
-        - url: "https://www.linkedin.com/in/andy-chanwy/"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/andy-chanwy/"
 
 menu:
     main:
