@@ -18,6 +18,8 @@ params:
     socialIcons:
         - name: "linkedin"
           url: "https://www.linkedin.com/in/andy-chanwy/"
+        - name: "email"
+          url: "mailto:andychan1451@gmail.com"
 
 menu:
     main:
