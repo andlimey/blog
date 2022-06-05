@@ -1,7 +1,7 @@
 ---
 title: "2021 in Review"
 date: 2022-01-01T11:12:05+08:00
-draft: true
+draft: false
 tags: [general thoughts, reflection]
 ---
 
