@@ -22,7 +22,7 @@ Before I delve into that. Let’s first look at the types of insurance to consid
 2. How long must the protection be?
 3. Why are they necessary?
 
-> A caveat, the subsequent sections are my own opinions. Everyone’s financial situation is different. You should seek professional advice from an advisor to better determine the types of insurance you need.
+> A caveat, the opinions expressed here are my own. Everyone’s financial situation is different. You should seek professional advice from an advisor to better determine the types of insurance you need.
 
 ### Death/Total Permanent Disability (TPD)
 
@@ -42,7 +42,7 @@ Note: The recommended level of coverage is 3.9 times our annual income, accordin
 
 ### Health Insurance
 
-As Singaporeans, we are covered under MediShield Life, but it covers basic public hospital treatments. As such, we need to supplement it with Integrated Shield Plans offered by insurance companies, that provide additional coverage on top of MediShield Life.
+As Singaporeans, we are covered under MediShield Life, but it covers basic public hospital treatments. As such, we need to supplement it with Integrated Shield Plans offered by insurance companies that provide additional coverage on top of MediShield Life.
 
 I won’t go into too much detail about health insurance, as it is an in-depth topic, but here are 2 resources that I found helpful:
 
@@ -51,15 +51,15 @@ I won’t go into too much detail about health insurance, as it is an in-depth t
 
 This type of insurance is needed even after you’ve stopped working since the primary reason is to hedge against expensive hospital treatments. And considering that our health complications will only increase with age, we should invest in a good integrated shield plan.
 
-Hence, unlike insurance for death/TPD and critical illness, our health insurance should be permanent.
+Hence, unlike insurance for death/TPD and critical illness, which are temporary, our health insurance should be permanent.
 
 ### Occupational Disability
 
 This is a risk that most people may miss out on, and it is something that I missed out on until I read [this](https://www.moneyowl.com.sg/articles/the-most-overlooked-insurance/) article.
 
-Note that occupational disability is not the same as TPD. TPD has very stringent claim criteria like the loss of 2 limbs or the inability to perform 3 out of 6 Activities of Daily Living.[^6]
+Note that occupational disability is not the same as TPD. TPD insurance has very stringent claim criteria like the loss of 2 limbs or the inability to perform 3 out of 6 Activities of Daily Living.[^6]
 
-Occupational disability insurance is more lenient as it covers against you losing the ability to earn an income. Hence, this hedges against the scenario where you are unable to work due to a disability, but is not serious enough to be classified as a TPD.
+Occupational disability insurance, on the other hand, is more lenient as it covers against you losing the ability to earn an income. Hence, this hedges against the scenario where you are unable to work due to a disability, but is not serious enough to be classified as a TPD.
 
 Typically, this type of insurance pays you a monthly amount up till the insured age, instead of the typical lump sum.
 
@@ -85,7 +85,7 @@ As mentioned earlier, I do not believe in investment-linked plans and whole life
 
 While not all agents necessarily push for these products because of the commissions, the reality is that there is an inherent conflict of interest. Ultimately, it is in their best interest to promote these plans.
 
-There are companies such as MoneyOwl that pay their advisors a salary. They also offer a [comprehensive financial planning service](https://www.moneyowl.com.sg/comprehensive/) where you pay an upfront fee, which I think reduces the conflict of interest. I hope I see more of such companies and services, rather than the commission-driven industry we see today.
+There are companies such as MoneyOwl that pay their advisors a salary. They also offer a [comprehensive financial planning service](https://www.moneyowl.com.sg/comprehensive/) where you pay an upfront fee, which I think reduces the conflict of interest. I hope to see more of such companies and services, rather than the commission-driven industry we see today.
 
 I do hope you found this article useful. Do drop me an [email](mailto:andychan1451@gmail.com) if you have any feedback!
 
