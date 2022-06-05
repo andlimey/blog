@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>reflection on Andy</title>
-    <link>https://andlimey.github.io/blog/tags/reflection/</link>
-    <description>Recent content in reflection on Andy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jan 2022 11:12:05 +0800</lastBuildDate><atom:link href="https://andlimey.github.io/blog/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2021 in Review</title>
-      <link>https://andlimey.github.io/blog/posts/2021-review/</link>
-      <pubDate>Sat, 01 Jan 2022 11:12:05 +0800</pubDate>
-      
-      <guid>https://andlimey.github.io/blog/posts/2021-review/</guid>
-      <description>2021 was a crazy year to say the least. There were joyous occasions, and there were occasions where life’s curveballs were difficult to handle.
-January - March I was still reeling from my insecurity issue. I didn’t handle the rejection from Company XXX that I interned in during the summer of 2020 well. Even though I was attending counselling sessions, it wasn’t until January, when I finally ended my last internship, that I could properly internalise my insecurities and my feelings of rejection.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>reflection on Andy</title><link>https://andlimey.github.io/blog/tags/reflection/</link><description>Recent content in reflection on Andy</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 01 Jan 2022 11:12:05 +0800</lastBuildDate><atom:link href="https://andlimey.github.io/blog/tags/reflection/index.xml" rel="self" type="application/rss+xml"/><item><title>2021 in Review</title><link>https://andlimey.github.io/blog/posts/2021-review/</link><pubDate>Sat, 01 Jan 2022 11:12:05 +0800</pubDate><guid>https://andlimey.github.io/blog/posts/2021-review/</guid><description>2021 was a crazy year to say the least. There were joyous occasions, and there were occasions where life’s curveballs were difficult to handle.
+January - March I was still reeling from my insecurity issue. I didn’t handle the rejection from Company XXX that I interned in during the summer of 2020 well. Even though I was attending counselling sessions, it wasn’t until January, when I finally ended my last internship, that I could properly internalise my insecurities and my feelings of rejection.</description></item></channel></rss>
