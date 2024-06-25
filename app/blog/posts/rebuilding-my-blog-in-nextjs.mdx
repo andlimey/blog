@@ -1,0 +1,90 @@
+---
+title: "Rebuilding my blog in NextJS"
+publishedAt: "2024-06-25"
+summary: "Rebuilding my blog in NextJS"
+---
+
+This isn't actually my first blog.
+
+Before this, I used Wordpress as it did everything out-of-the-box, such as providing analytics and themes. I was also able to download Jetpack from the Play Store and blog from my phone.
+
+Before that, I used [Hugo](https://gohugo.io/). And before Hugo, I used [GitBook](https://www.gitbook.com/).
+
+But, my manager at Ascenda suggested I build my blog as a way to learn. It was a good idea, although how I did it is perhaps, questionable.
+
+I was torn between using a template vs really building it from scratch.
+
+Considering that I look at code all day, the last thing I want to do in my free time is look at and write more code. I also wanted to complete this within a few months.
+
+So I used NextJS' starter portfolio but customised it as my own. And I'm not shying away from this - clicking on View Original Source opens a new tab to the original starter kit.
+
+### What Came With The Starter Kit?
+
+The Starter Kit came with the following:
+
+- MDX and Markdown support
+- Optimized for SEO (sitemap, robots, JSON-LD schema)
+- RSS Feed
+- Tailwind
+- Vercel Speed Insights / Web Analytics
+
+As you can see, most of the groundwork is done already. I've also decided to deploy it using Vercel out of simplicity first.
+
+I've read that it is notoriously difficult to deploy NextJS without using Vercel.
+
+I have yet to verify this. But since it provides web analytics and speed insights out-of-the-box, I decided to use it.
+
+### Customisations
+
+**Support for dark theme**
+
+I added support for dark theme using [next-themes](https://github.com/pacocoursey/next-themes).
+
+**Support for GitHub Flavored Markdown (GFM)**
+
+Then, I added support for GFM using [remark-gfm](https://github.com/remarkjs/remark-gfm). I needed this as I had tables in 1 of my posts.
+
+**Miscellaneous**
+
+The other modifications are mostly stylistic. I made some minor CSS adjustments.
+
+### Moving Forward
+
+The blog is still far from complete. I plan to implement the following:
+
+**1. Pagination**
+
+So that readers do not need to scroll endlessly. I doubt I will reach there so fast, but it seems like good practice to try to implement it myself anyway.
+
+**2. Tags**
+
+As you can see, I don't write exclusively about software engineering.
+
+It would be good to attach tags to the .mdx files as part of the metadata so readers can filter the posts by topics.
+
+**3. Add support for images**
+I currently do not have images in any of my post, but the current codebase does not support it.
+
+Fortunately, this can easily be done using another plugin.
+
+**4. Read the files from a CMS**
+
+Currently, all my content is housed in the `/blog/posts/` directory.
+
+But what if I want to read from an external database like Notion or Google Drive?
+
+### Concluding Thoughts
+
+I initially struggled to start on this because I wanted it to be 'perfect'. i.e. Write everything from scratch and deploy by myself.
+
+However, this resulted in analysis paralysis. I couldn't decide on which tech stack to use.
+
+- Should I use NextJS or use a static site generator?
+- Should I use a CMS or read the content from a local directory?
+- How should I style the website?
+
+In the end, I decided to fight against my imposter syndrome and use a starter kit to get things going.
+
+I decided that it shouldn't matter to me if using a starter kit makes me look like an inferior software engineer. As long as I am still learning, it is a step forward.
+
+I hope this post inspires other engineers who feel the same way.
