@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import { highlight } from "sugar-high";
 import React from "react";
@@ -49,10 +48,6 @@ function CustomLink(props) {
   return <a target="_blank" rel="noopener noreferrer" {...props} />;
 }
 
-function RoundedImage(props) {
-  return <Image alt={props.alt} className="rounded-lg" {...props} />;
-}
-
 function Code({ children, ...props }) {
   let codeHTML = highlight(children);
   return <code dangerouslySetInnerHTML={{ __html: codeHTML }} {...props} />;
@@ -91,6 +86,14 @@ function createHeading(level) {
   return Heading;
 }
 
+function BlockQuote({ children }) {
+  return (
+    <blockquote className="pl-4 border-l-4 border-solid border-gray-200">
+      {children}
+    </blockquote>
+  );
+}
+
 let components = {
   h1: createHeading(1),
   h2: createHeading(2),
@@ -98,10 +101,10 @@ let components = {
   h4: createHeading(4),
   h5: createHeading(5),
   h6: createHeading(6),
-  Image: RoundedImage,
   a: CustomLink,
   code: Code,
   Table,
+  blockquote: BlockQuote,
 };
 
 export async function CustomMDX({ source }: { source: string }) {
